@@ -5,6 +5,6 @@
   "type": "module",
   "description": "Replay of past npm attacks and lockfile update histories against dependency cooldown settings.",
   "dependencies": {
-    "yaml": "2.8.1"
+    "yaml": "2.8.3"
   }
 }
