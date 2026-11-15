@@ -1,0 +1,16 @@
+{
+  "repo": "puppeteer/puppeteer",
+  "path": "package-lock.json",
+  "since": "2026-05-01T00:00:00Z",
+  "until": "2026-08-04T23:59:59Z",
+  "commits": 51,
+  "adoptions": 463,
+  "reappearedSkipped": 2,
+  "unparsedInLastSnapshot": 22,
+  "unparsedMaxInASnapshot": 22,
+  "lookup": {
+    "ok": 463,
+    "no-publish-time": 0,
+    "registry-unreadable": 0
+  }
+}

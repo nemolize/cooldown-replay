@@ -1,0 +1,13 @@
+[
+  { "name": "match3-before", "repo": "nemolize/match3", "path": "pnpm-lock.yaml", "until": "2026-06-04T23:59:59Z" },
+  { "name": "match3-after", "repo": "nemolize/match3", "path": "pnpm-lock.yaml", "since": "2026-06-05T00:00:00Z" },
+  { "name": "2048-before", "repo": "nemolize/2048", "path": "pnpm-lock.yaml", "until": "2026-06-04T23:59:59Z" },
+  { "name": "2048-after", "repo": "nemolize/2048", "path": "pnpm-lock.yaml", "since": "2026-06-05T00:00:00Z" },
+  { "name": "web-ruler-before", "repo": "nemolize/web-ruler", "path": "pnpm-lock.yaml", "until": "2026-06-04T23:59:59Z" },
+  { "name": "web-ruler-after", "repo": "nemolize/web-ruler", "path": "pnpm-lock.yaml", "since": "2026-06-05T00:00:00Z" },
+  { "name": "react-hook-form-zod-demo-before", "repo": "nemolize/react-hook-form-zod-demo", "path": "pnpm-lock.yaml", "until": "2026-06-04T23:59:59Z" },
+  { "name": "puppeteer-before", "repo": "puppeteer/puppeteer", "path": "package-lock.json", "since": "2026-05-01T00:00:00Z", "until": "2026-08-04T23:59:59Z" },
+  { "name": "puppeteer-after", "repo": "puppeteer/puppeteer", "path": "package-lock.json", "since": "2026-08-05T00:00:00Z" },
+  { "name": "vite-before", "repo": "vitejs/vite", "path": "pnpm-lock.yaml", "since": "2026-03-01T00:00:00Z", "until": "2026-06-13T23:59:59Z" },
+  { "name": "vite-after", "repo": "vitejs/vite", "path": "pnpm-lock.yaml", "since": "2026-06-25T00:00:00Z" }
+]

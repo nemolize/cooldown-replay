@@ -1,0 +1,15 @@
+{
+  "repo": "vitejs/vite",
+  "path": "pnpm-lock.yaml",
+  "since": "2026-06-25T00:00:00Z",
+  "commits": 95,
+  "adoptions": 2916,
+  "reappearedSkipped": 6,
+  "unparsedInLastSnapshot": 122,
+  "unparsedMaxInASnapshot": 122,
+  "lookup": {
+    "ok": 2916,
+    "no-publish-time": 0,
+    "registry-unreadable": 0
+  }
+}

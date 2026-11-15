@@ -1,0 +1,15 @@
+{
+  "repo": "nemolize/web-ruler",
+  "path": "pnpm-lock.yaml",
+  "until": "2026-06-04T23:59:59Z",
+  "commits": 145,
+  "adoptions": 2677,
+  "reappearedSkipped": 384,
+  "unparsedInLastSnapshot": 0,
+  "unparsedMaxInASnapshot": 0,
+  "lookup": {
+    "ok": 2677,
+    "no-publish-time": 0,
+    "registry-unreadable": 0
+  }
+}

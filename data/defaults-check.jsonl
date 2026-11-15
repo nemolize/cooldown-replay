@@ -1,0 +1,4 @@
+{"tool":"npm","package":"fumadocs-typescript","range":"^5","latest":"5.6.1","latestAgeHours":15.764683333333334,"previous":"5.6.0","resolved":"5.6.1","exit":0,"appliesCooldownByDefault":false}
+{"tool":"pnpm","package":"fumadocs-typescript","range":"^5","latest":"5.6.1","latestAgeHours":15.764683333333334,"previous":"5.6.0","resolved":"5.6.0","exit":0,"appliesCooldownByDefault":true}
+{"tool":"bun","package":"fumadocs-typescript","range":"^5","latest":"5.6.1","latestAgeHours":15.764683333333334,"previous":"5.6.0","resolved":"5.6.1","exit":0,"appliesCooldownByDefault":false}
+{"tool":"yarn","package":"fumadocs-typescript","range":"^5","latest":"5.6.1","latestAgeHours":15.764683333333334,"previous":"5.6.0","resolved":"5.6.0","exit":0,"appliesCooldownByDefault":true}

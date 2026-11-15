@@ -1,0 +1,923 @@
+{
+  "attackTable": [
+    {
+      "cooldownDays": 1,
+      "versionsAvoided": 59,
+      "versionsTotal": 69,
+      "incidentsAllAvoided": 7,
+      "incidentsSomeAvoided": 0,
+      "incidentsNoneAvoided": 2,
+      "incidentsTotal": 9,
+      "byBasis": {
+        "removal": {
+          "versionsAvoided": 42,
+          "versionsTotal": 43,
+          "incidents": 5
+        },
+        "advisory": {
+          "versionsAvoided": 17,
+          "versionsTotal": 26,
+          "incidents": 4
+        }
+      }
+    },
+    {
+      "cooldownDays": 2,
+      "versionsAvoided": 68,
+      "versionsTotal": 69,
+      "incidentsAllAvoided": 8,
+      "incidentsSomeAvoided": 0,
+      "incidentsNoneAvoided": 1,
+      "incidentsTotal": 9,
+      "byBasis": {
+        "removal": {
+          "versionsAvoided": 42,
+          "versionsTotal": 43,
+          "incidents": 5
+        },
+        "advisory": {
+          "versionsAvoided": 26,
+          "versionsTotal": 26,
+          "incidents": 4
+        }
+      }
+    },
+    {
+      "cooldownDays": 3,
+      "versionsAvoided": 68,
+      "versionsTotal": 69,
+      "incidentsAllAvoided": 8,
+      "incidentsSomeAvoided": 0,
+      "incidentsNoneAvoided": 1,
+      "incidentsTotal": 9,
+      "byBasis": {
+        "removal": {
+          "versionsAvoided": 42,
+          "versionsTotal": 43,
+          "incidents": 5
+        },
+        "advisory": {
+          "versionsAvoided": 26,
+          "versionsTotal": 26,
+          "incidents": 4
+        }
+      }
+    },
+    {
+      "cooldownDays": 5,
+      "versionsAvoided": 68,
+      "versionsTotal": 69,
+      "incidentsAllAvoided": 8,
+      "incidentsSomeAvoided": 0,
+      "incidentsNoneAvoided": 1,
+      "incidentsTotal": 9,
+      "byBasis": {
+        "removal": {
+          "versionsAvoided": 42,
+          "versionsTotal": 43,
+          "incidents": 5
+        },
+        "advisory": {
+          "versionsAvoided": 26,
+          "versionsTotal": 26,
+          "incidents": 4
+        }
+      }
+    },
+    {
+      "cooldownDays": 7,
+      "versionsAvoided": 68,
+      "versionsTotal": 69,
+      "incidentsAllAvoided": 8,
+      "incidentsSomeAvoided": 0,
+      "incidentsNoneAvoided": 1,
+      "incidentsTotal": 9,
+      "byBasis": {
+        "removal": {
+          "versionsAvoided": 42,
+          "versionsTotal": 43,
+          "incidents": 5
+        },
+        "advisory": {
+          "versionsAvoided": 26,
+          "versionsTotal": 26,
+          "incidents": 4
+        }
+      }
+    },
+    {
+      "cooldownDays": 14,
+      "versionsAvoided": 68,
+      "versionsTotal": 69,
+      "incidentsAllAvoided": 8,
+      "incidentsSomeAvoided": 0,
+      "incidentsNoneAvoided": 1,
+      "incidentsTotal": 9,
+      "byBasis": {
+        "removal": {
+          "versionsAvoided": 42,
+          "versionsTotal": 43,
+          "incidents": 5
+        },
+        "advisory": {
+          "versionsAvoided": 26,
+          "versionsTotal": 26,
+          "incidents": 4
+        }
+      }
+    },
+    {
+      "cooldownDays": 30,
+      "versionsAvoided": 68,
+      "versionsTotal": 69,
+      "incidentsAllAvoided": 8,
+      "incidentsSomeAvoided": 0,
+      "incidentsNoneAvoided": 1,
+      "incidentsTotal": 9,
+      "byBasis": {
+        "removal": {
+          "versionsAvoided": 42,
+          "versionsTotal": 43,
+          "incidents": 5
+        },
+        "advisory": {
+          "versionsAvoided": 26,
+          "versionsTotal": 26,
+          "incidents": 4
+        }
+      }
+    }
+  ],
+  "costTable": [
+    {
+      "dataset": "2048-after",
+      "cooldownDays": 1,
+      "adoptions": 492,
+      "delayed": 0,
+      "delayedShare": 0,
+      "medianDelayHours": null,
+      "maxDelayHours": null,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-after",
+      "cooldownDays": 2,
+      "adoptions": 492,
+      "delayed": 5,
+      "delayedShare": 0.01016260162601626,
+      "medianDelayHours": 15.329358333333332,
+      "maxDelayHours": 20.19022138888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-after",
+      "cooldownDays": 3,
+      "adoptions": 492,
+      "delayed": 15,
+      "delayedShare": 0.03048780487804878,
+      "medianDelayHours": 10.458925555555552,
+      "maxDelayHours": 44.19022138888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-after",
+      "cooldownDays": 5,
+      "adoptions": 492,
+      "delayed": 39,
+      "delayedShare": 0.07926829268292683,
+      "medianDelayHours": 26.712453888888888,
+      "maxDelayHours": 92.19022138888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-after",
+      "cooldownDays": 7,
+      "adoptions": 492,
+      "delayed": 102,
+      "delayedShare": 0.2073170731707317,
+      "medianDelayHours": 42.458074027777776,
+      "maxDelayHours": 140.1902213888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-after",
+      "cooldownDays": 14,
+      "adoptions": 492,
+      "delayed": 160,
+      "delayedShare": 0.3252032520325203,
+      "medianDelayHours": 178.0152488888889,
+      "maxDelayHours": 308.1902213888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-after",
+      "cooldownDays": 30,
+      "adoptions": 492,
+      "delayed": 230,
+      "delayedShare": 0.46747967479674796,
+      "medianDelayHours": 526.1684719444445,
+      "maxDelayHours": 692.1902213888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-before",
+      "cooldownDays": 1,
+      "adoptions": 1869,
+      "delayed": 124,
+      "delayedShare": 0.06634563937934725,
+      "medianDelayHours": 16.08321638888889,
+      "maxDelayHours": 23.45139111111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-before",
+      "cooldownDays": 2,
+      "adoptions": 1869,
+      "delayed": 251,
+      "delayedShare": 0.1342964151952916,
+      "medianDelayHours": 21.508567222222222,
+      "maxDelayHours": 47.451391111111114,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-before",
+      "cooldownDays": 3,
+      "adoptions": 1869,
+      "delayed": 339,
+      "delayedShare": 0.18138041733547353,
+      "medianDelayHours": 39.8638375,
+      "maxDelayHours": 71.4513911111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-before",
+      "cooldownDays": 5,
+      "adoptions": 1869,
+      "delayed": 642,
+      "delayedShare": 0.3434991974317817,
+      "medianDelayHours": 50.82497402777778,
+      "maxDelayHours": 119.4513911111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-before",
+      "cooldownDays": 7,
+      "adoptions": 1869,
+      "delayed": 891,
+      "delayedShare": 0.4767255216693419,
+      "medianDelayHours": 73.73706583333333,
+      "maxDelayHours": 167.45139111111112,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-before",
+      "cooldownDays": 14,
+      "adoptions": 1869,
+      "delayed": 1178,
+      "delayedShare": 0.6302835741037989,
+      "medianDelayHours": 221.49020138888886,
+      "maxDelayHours": 335.4513911111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "2048-before",
+      "cooldownDays": 30,
+      "adoptions": 1869,
+      "delayed": 1346,
+      "delayedShare": 0.7201712145532371,
+      "medianDelayHours": 595.6693761111112,
+      "maxDelayHours": 719.4513911111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-after",
+      "cooldownDays": 1,
+      "adoptions": 395,
+      "delayed": 0,
+      "delayedShare": 0,
+      "medianDelayHours": null,
+      "maxDelayHours": null,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-after",
+      "cooldownDays": 2,
+      "adoptions": 395,
+      "delayed": 6,
+      "delayedShare": 0.015189873417721518,
+      "medianDelayHours": 9.223723055555556,
+      "maxDelayHours": 20.790221388888888,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-after",
+      "cooldownDays": 3,
+      "adoptions": 395,
+      "delayed": 16,
+      "delayedShare": 0.04050632911392405,
+      "medianDelayHours": 15.846494305555556,
+      "maxDelayHours": 44.79022138888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-after",
+      "cooldownDays": 5,
+      "adoptions": 395,
+      "delayed": 46,
+      "delayedShare": 0.11645569620253164,
+      "medianDelayHours": 20.590352361111115,
+      "maxDelayHours": 92.79022138888888,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-after",
+      "cooldownDays": 7,
+      "adoptions": 395,
+      "delayed": 58,
+      "delayedShare": 0.1468354430379747,
+      "medianDelayHours": 63.36680638888889,
+      "maxDelayHours": 140.79022138888888,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-after",
+      "cooldownDays": 14,
+      "adoptions": 395,
+      "delayed": 84,
+      "delayedShare": 0.21265822784810126,
+      "medianDelayHours": 225.5883959722222,
+      "maxDelayHours": 308.7902213888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-after",
+      "cooldownDays": 30,
+      "adoptions": 395,
+      "delayed": 149,
+      "delayedShare": 0.37721518987341773,
+      "medianDelayHours": 475.9678572222222,
+      "maxDelayHours": 692.7902213888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-before",
+      "cooldownDays": 1,
+      "adoptions": 1416,
+      "delayed": 200,
+      "delayedShare": 0.14124293785310735,
+      "medianDelayHours": 15.227425833333333,
+      "maxDelayHours": 23.491237777777776,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-before",
+      "cooldownDays": 2,
+      "adoptions": 1416,
+      "delayed": 364,
+      "delayedShare": 0.2570621468926554,
+      "medianDelayHours": 26.236661666666667,
+      "maxDelayHours": 47.491237777777776,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-before",
+      "cooldownDays": 3,
+      "adoptions": 1416,
+      "delayed": 486,
+      "delayedShare": 0.3432203389830508,
+      "medianDelayHours": 45.606361944444444,
+      "maxDelayHours": 71.49123777777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-before",
+      "cooldownDays": 5,
+      "adoptions": 1416,
+      "delayed": 785,
+      "delayedShare": 0.5543785310734464,
+      "medianDelayHours": 65.67953333333332,
+      "maxDelayHours": 119.49123777777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-before",
+      "cooldownDays": 7,
+      "adoptions": 1416,
+      "delayed": 941,
+      "delayedShare": 0.66454802259887,
+      "medianDelayHours": 97.69339111111111,
+      "maxDelayHours": 167.49123777777777,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-before",
+      "cooldownDays": 14,
+      "adoptions": 1416,
+      "delayed": 1089,
+      "delayedShare": 0.7690677966101694,
+      "medianDelayHours": 252.34787694444447,
+      "maxDelayHours": 335.49123777777777,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "match3-before",
+      "cooldownDays": 30,
+      "adoptions": 1416,
+      "delayed": 1162,
+      "delayedShare": 0.8206214689265536,
+      "medianDelayHours": 629.1318218055555,
+      "maxDelayHours": 719.4912377777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-after",
+      "cooldownDays": 1,
+      "adoptions": 786,
+      "delayed": 4,
+      "delayedShare": 0.005089058524173028,
+      "medianDelayHours": 20.44295513888889,
+      "maxDelayHours": 23.241978888888887,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-after",
+      "cooldownDays": 2,
+      "adoptions": 786,
+      "delayed": 5,
+      "delayedShare": 0.006361323155216285,
+      "medianDelayHours": 41.98135611111111,
+      "maxDelayHours": 47.24197888888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-after",
+      "cooldownDays": 3,
+      "adoptions": 786,
+      "delayed": 6,
+      "delayedShare": 0.007633587786259542,
+      "medianDelayHours": 64.15247444444444,
+      "maxDelayHours": 71.2419788888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-after",
+      "cooldownDays": 5,
+      "adoptions": 786,
+      "delayed": 6,
+      "delayedShare": 0.007633587786259542,
+      "medianDelayHours": 112.15247444444444,
+      "maxDelayHours": 119.2419788888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-after",
+      "cooldownDays": 7,
+      "adoptions": 786,
+      "delayed": 9,
+      "delayedShare": 0.011450381679389313,
+      "medianDelayHours": 134.93850055555555,
+      "maxDelayHours": 167.2419788888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-after",
+      "cooldownDays": 14,
+      "adoptions": 786,
+      "delayed": 573,
+      "delayedShare": 0.7290076335877863,
+      "medianDelayHours": 74.31249083333336,
+      "maxDelayHours": 335.24197888888887,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-after",
+      "cooldownDays": 30,
+      "adoptions": 786,
+      "delayed": 726,
+      "delayedShare": 0.9236641221374046,
+      "medianDelayHours": 435.08782499999995,
+      "maxDelayHours": 719.2419788888889,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-before",
+      "cooldownDays": 1,
+      "adoptions": 463,
+      "delayed": 5,
+      "delayedShare": 0.01079913606911447,
+      "medianDelayHours": 18.728105,
+      "maxDelayHours": 23.29854027777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-before",
+      "cooldownDays": 2,
+      "adoptions": 463,
+      "delayed": 6,
+      "delayedShare": 0.012958963282937365,
+      "medianDelayHours": 36.07860263888889,
+      "maxDelayHours": 47.298540277777775,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-before",
+      "cooldownDays": 3,
+      "adoptions": 463,
+      "delayed": 23,
+      "delayedShare": 0.04967602591792657,
+      "medianDelayHours": 5.213618333333329,
+      "maxDelayHours": 71.29854027777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-before",
+      "cooldownDays": 5,
+      "adoptions": 463,
+      "delayed": 67,
+      "delayedShare": 0.1447084233261339,
+      "medianDelayHours": 46.913155,
+      "maxDelayHours": 119.29854027777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-before",
+      "cooldownDays": 7,
+      "adoptions": 463,
+      "delayed": 154,
+      "delayedShare": 0.3326133909287257,
+      "medianDelayHours": 47.275266944444446,
+      "maxDelayHours": 167.2985402777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-before",
+      "cooldownDays": 14,
+      "adoptions": 463,
+      "delayed": 328,
+      "delayedShare": 0.7084233261339092,
+      "medianDelayHours": 148.81758597222222,
+      "maxDelayHours": 335.29854027777776,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "puppeteer-before",
+      "cooldownDays": 30,
+      "adoptions": 463,
+      "delayed": 395,
+      "delayedShare": 0.8531317494600432,
+      "medianDelayHours": 530.3354291666667,
+      "maxDelayHours": 719.2985402777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "react-hook-form-zod-demo-before",
+      "cooldownDays": 1,
+      "adoptions": 1181,
+      "delayed": 131,
+      "delayedShare": 0.1109229466553768,
+      "medianDelayHours": 7.566558055555557,
+      "maxDelayHours": 21.0789075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "react-hook-form-zod-demo-before",
+      "cooldownDays": 2,
+      "adoptions": 1181,
+      "delayed": 263,
+      "delayedShare": 0.222692633361558,
+      "medianDelayHours": 23.720861944444444,
+      "maxDelayHours": 45.0789075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "react-hook-form-zod-demo-before",
+      "cooldownDays": 3,
+      "adoptions": 1181,
+      "delayed": 412,
+      "delayedShare": 0.3488569009314141,
+      "medianDelayHours": 33.88980708333333,
+      "maxDelayHours": 69.0789075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "react-hook-form-zod-demo-before",
+      "cooldownDays": 5,
+      "adoptions": 1181,
+      "delayed": 641,
+      "delayedShare": 0.5427603725656224,
+      "medianDelayHours": 62.79756305555556,
+      "maxDelayHours": 117.0789075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "react-hook-form-zod-demo-before",
+      "cooldownDays": 7,
+      "adoptions": 1181,
+      "delayed": 770,
+      "delayedShare": 0.6519898391193903,
+      "medianDelayHours": 99.08612680555555,
+      "maxDelayHours": 165.0789075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "react-hook-form-zod-demo-before",
+      "cooldownDays": 14,
+      "adoptions": 1181,
+      "delayed": 925,
+      "delayedShare": 0.7832345469940728,
+      "medianDelayHours": 250.36434694444443,
+      "maxDelayHours": 333.0789075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "react-hook-form-zod-demo-before",
+      "cooldownDays": 30,
+      "adoptions": 1181,
+      "delayed": 1043,
+      "delayedShare": 0.8831498729889924,
+      "medianDelayHours": 624.5470127777778,
+      "maxDelayHours": 717.0789075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-after",
+      "cooldownDays": 1,
+      "adoptions": 2916,
+      "delayed": 38,
+      "delayedShare": 0.013031550068587106,
+      "medianDelayHours": 23.654377916666668,
+      "maxDelayHours": 23.850082222222223,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-after",
+      "cooldownDays": 2,
+      "adoptions": 2916,
+      "delayed": 341,
+      "delayedShare": 0.11694101508916324,
+      "medianDelayHours": 8.755875833333334,
+      "maxDelayHours": 47.85008222222222,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-after",
+      "cooldownDays": 3,
+      "adoptions": 2916,
+      "delayed": 557,
+      "delayedShare": 0.1910150891632373,
+      "medianDelayHours": 27.401345,
+      "maxDelayHours": 71.85008222222223,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-after",
+      "cooldownDays": 5,
+      "adoptions": 2916,
+      "delayed": 1266,
+      "delayedShare": 0.43415637860082307,
+      "medianDelayHours": 41.46585263888889,
+      "maxDelayHours": 119.85008222222223,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-after",
+      "cooldownDays": 7,
+      "adoptions": 2916,
+      "delayed": 2100,
+      "delayedShare": 0.720164609053498,
+      "medianDelayHours": 58.09154916666667,
+      "maxDelayHours": 167.85008222222223,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-after",
+      "cooldownDays": 14,
+      "adoptions": 2916,
+      "delayed": 2582,
+      "delayedShare": 0.8854595336076817,
+      "medianDelayHours": 212.75861347222224,
+      "maxDelayHours": 335.8500822222222,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-after",
+      "cooldownDays": 30,
+      "adoptions": 2916,
+      "delayed": 2691,
+      "delayedShare": 0.9228395061728395,
+      "medianDelayHours": 592.6021825,
+      "maxDelayHours": 719.8500822222222,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-before",
+      "cooldownDays": 1,
+      "adoptions": 1844,
+      "delayed": 293,
+      "delayedShare": 0.15889370932754882,
+      "medianDelayHours": 10.447541666666666,
+      "maxDelayHours": 23.87667777777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-before",
+      "cooldownDays": 2,
+      "adoptions": 1844,
+      "delayed": 463,
+      "delayedShare": 0.25108459869848154,
+      "medianDelayHours": 29.20394472222222,
+      "maxDelayHours": 47.87667777777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-before",
+      "cooldownDays": 3,
+      "adoptions": 1844,
+      "delayed": 747,
+      "delayedShare": 0.40509761388286336,
+      "medianDelayHours": 31.46740972222222,
+      "maxDelayHours": 71.87667777777777,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-before",
+      "cooldownDays": 5,
+      "adoptions": 1844,
+      "delayed": 1087,
+      "delayedShare": 0.5894793926247288,
+      "medianDelayHours": 61.09328305555555,
+      "maxDelayHours": 119.87667777777777,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-before",
+      "cooldownDays": 7,
+      "adoptions": 1844,
+      "delayed": 1558,
+      "delayedShare": 0.8449023861171366,
+      "medianDelayHours": 90.40710583333333,
+      "maxDelayHours": 167.8766777777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-before",
+      "cooldownDays": 14,
+      "adoptions": 1844,
+      "delayed": 1770,
+      "delayedShare": 0.9598698481561823,
+      "medianDelayHours": 249.47511194444445,
+      "maxDelayHours": 335.8766777777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "vite-before",
+      "cooldownDays": 30,
+      "adoptions": 1844,
+      "delayed": 1798,
+      "delayedShare": 0.9750542299349241,
+      "medianDelayHours": 628.7239168055555,
+      "maxDelayHours": 719.8766777777778,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-after",
+      "cooldownDays": 1,
+      "adoptions": 447,
+      "delayed": 0,
+      "delayedShare": 0,
+      "medianDelayHours": null,
+      "maxDelayHours": null,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-after",
+      "cooldownDays": 2,
+      "adoptions": 447,
+      "delayed": 44,
+      "delayedShare": 0.09843400447427293,
+      "medianDelayHours": 0.1818565277777786,
+      "maxDelayHours": 20.9100075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-after",
+      "cooldownDays": 3,
+      "adoptions": 447,
+      "delayed": 79,
+      "delayedShare": 0.1767337807606264,
+      "medianDelayHours": 24.17823,
+      "maxDelayHours": 44.9100075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-after",
+      "cooldownDays": 5,
+      "adoptions": 447,
+      "delayed": 143,
+      "delayedShare": 0.319910514541387,
+      "medianDelayHours": 58.60875,
+      "maxDelayHours": 92.9100075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-after",
+      "cooldownDays": 7,
+      "adoptions": 447,
+      "delayed": 155,
+      "delayedShare": 0.34675615212527966,
+      "medianDelayHours": 99.73408833333333,
+      "maxDelayHours": 140.9100075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-after",
+      "cooldownDays": 14,
+      "adoptions": 447,
+      "delayed": 169,
+      "delayedShare": 0.378076062639821,
+      "medianDelayHours": 246.17780305555556,
+      "maxDelayHours": 308.9100075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-after",
+      "cooldownDays": 30,
+      "adoptions": 447,
+      "delayed": 214,
+      "delayedShare": 0.47874720357941836,
+      "medianDelayHours": 625.9302372222222,
+      "maxDelayHours": 692.9100075,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-before",
+      "cooldownDays": 1,
+      "adoptions": 2677,
+      "delayed": 245,
+      "delayedShare": 0.09152035861038475,
+      "medianDelayHours": 3.7473827777777764,
+      "maxDelayHours": 23.80330111111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-before",
+      "cooldownDays": 2,
+      "adoptions": 2677,
+      "delayed": 488,
+      "delayedShare": 0.18229361225252147,
+      "medianDelayHours": 24.07315291666667,
+      "maxDelayHours": 47.80330111111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-before",
+      "cooldownDays": 3,
+      "adoptions": 2677,
+      "delayed": 706,
+      "delayedShare": 0.2637280537915577,
+      "medianDelayHours": 33.44059277777778,
+      "maxDelayHours": 71.80330111111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-before",
+      "cooldownDays": 5,
+      "adoptions": 2677,
+      "delayed": 1091,
+      "delayedShare": 0.4075457601793052,
+      "medianDelayHours": 67.5024611111111,
+      "maxDelayHours": 119.80330111111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-before",
+      "cooldownDays": 7,
+      "adoptions": 2677,
+      "delayed": 1509,
+      "delayedShare": 0.5636906985431454,
+      "medianDelayHours": 95.96616555555556,
+      "maxDelayHours": 167.80330111111113,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-before",
+      "cooldownDays": 14,
+      "adoptions": 2677,
+      "delayed": 1888,
+      "delayedShare": 0.7052670900261486,
+      "medianDelayHours": 242.92915319444444,
+      "maxDelayHours": 335.8033011111111,
+      "negativeAge": 0
+    },
+    {
+      "dataset": "web-ruler-before",
+      "cooldownDays": 30,
+      "adoptions": 2677,
+      "delayed": 2063,
+      "delayedShare": 0.770638774747852,
+      "medianDelayHours": 607.8727925000001,
+      "maxDelayHours": 719.8033011111111,
+      "negativeAge": 0
+    }
+  ]
+}

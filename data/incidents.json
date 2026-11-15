@@ -1,0 +1,399 @@
+[
+  {
+    "id": "eslint-scope-2018",
+    "name": "eslint-scope / eslint-config-eslint (July 2018)",
+    "packages": [
+      {
+        "name": "eslint-scope",
+        "versions": [
+          "3.7.2"
+        ],
+        "removedAt": "2018-07-12T12:37:00Z",
+        "removedBy": "npm team",
+        "removalSource": "https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes/"
+      },
+      {
+        "name": "eslint-config-eslint",
+        "versions": [
+          "5.0.2"
+        ],
+        "removedAt": "2018-07-12T10:25:00Z",
+        "removedBy": "the attacker",
+        "removalSource": "https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes/"
+      }
+    ],
+    "advisories": [
+      "GHSA-hxxf-q3w9-4xgw"
+    ]
+  },
+  {
+    "id": "event-stream-2018",
+    "name": "flatmap-stream, pulled in by event-stream (2018)",
+    "packages": [
+      {
+        "name": "flatmap-stream",
+        "versions": [
+          "0.1.1"
+        ],
+        "publishedAtOverride": "2018-10-05T00:00:00Z",
+        "publishedSource": "https://snyk.io/blog/a-post-mortem-of-the-malicious-event-stream-backdoor/",
+        "publishedPrecision": "day",
+        "removedAt": "2018-11-26T00:00:00Z",
+        "removedPrecision": "day",
+        "removedBy": "npm security",
+        "removalSource": "https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident"
+      }
+    ],
+    "advisories": [
+      "GHSA-9x64-5r7x-2q53"
+    ]
+  },
+  {
+    "id": "ua-parser-js-2021",
+    "name": "ua-parser-js (October 2021)",
+    "packages": [
+      {
+        "name": "ua-parser-js",
+        "versions": [
+          "0.7.29",
+          "0.8.0",
+          "1.0.0"
+        ]
+      }
+    ],
+    "advisories": [
+      "GHSA-pjwm-rvh2-c87w"
+    ]
+  },
+  {
+    "id": "coa-rc-2021",
+    "name": "coa and rc (November 2021)",
+    "packages": [
+      {
+        "name": "coa",
+        "versions": [
+          "2.0.3",
+          "2.0.4",
+          "2.1.1",
+          "2.1.3",
+          "3.0.1",
+          "3.1.3"
+        ],
+        "advisories": [
+          "GHSA-73qr-pfmq-6rp8"
+        ]
+      },
+      {
+        "name": "rc",
+        "versions": [
+          "1.2.9",
+          "1.3.9",
+          "2.3.9"
+        ],
+        "advisories": [
+          "GHSA-g2q5-5433-rhrf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "solana-web3js-2024",
+    "name": "@solana/web3.js (December 2024)",
+    "packages": [
+      {
+        "name": "@solana/web3.js",
+        "versions": [
+          "1.95.6",
+          "1.95.7"
+        ],
+        "removedAt": "2024-12-04T00:22:00Z",
+        "removedPrecision": "minute, stated as about",
+        "removedBy": "npm registry staff",
+        "removalSource": "https://www.anza.xyz/blog/web3-js-exploit-root-cause-analysis"
+      }
+    ],
+    "advisories": [
+      "GHSA-jcxm-7wvp-g6p5"
+    ]
+  },
+  {
+    "id": "xrpl-2025",
+    "name": "xrpl (April 2025)",
+    "packages": [
+      {
+        "name": "xrpl",
+        "versions": [
+          "4.2.1",
+          "4.2.2",
+          "4.2.3",
+          "4.2.4",
+          "2.14.2"
+        ]
+      }
+    ],
+    "advisories": [
+      "GHSA-33qr-m49q-rxfx"
+    ]
+  },
+  {
+    "id": "eslint-config-prettier-2025",
+    "name": "eslint-config-prettier and four more packages (July 2025)",
+    "packages": [
+      {
+        "name": "eslint-config-prettier",
+        "versions": [
+          "8.10.1",
+          "9.1.1",
+          "10.1.6",
+          "10.1.7"
+        ]
+      },
+      {
+        "name": "eslint-plugin-prettier",
+        "versions": [
+          "4.2.2",
+          "4.2.3"
+        ]
+      },
+      {
+        "name": "synckit",
+        "versions": [
+          "0.11.9"
+        ]
+      },
+      {
+        "name": "@pkgr/core",
+        "versions": [
+          "0.2.8"
+        ]
+      },
+      {
+        "name": "napi-postinstall",
+        "versions": [
+          "0.3.1"
+        ]
+      }
+    ],
+    "advisories": [
+      "GHSA-f29h-pxvx-f335"
+    ]
+  },
+  {
+    "id": "nx-2025",
+    "name": "nx and its plugins (August 2025)",
+    "packages": [
+      {
+        "name": "nx",
+        "versions": [
+          "21.5.0",
+          "20.9.0",
+          "20.10.0",
+          "21.6.0",
+          "20.11.0",
+          "21.7.0",
+          "21.8.0",
+          "20.12.0"
+        ],
+        "removedAt": "2025-08-27T02:44:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      },
+      {
+        "name": "@nx/devkit",
+        "versions": [
+          "21.5.0",
+          "20.9.0"
+        ],
+        "removedAt": "2025-08-27T02:44:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      },
+      {
+        "name": "@nx/js",
+        "versions": [
+          "21.5.0",
+          "20.9.0"
+        ],
+        "removedAt": "2025-08-27T02:44:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      },
+      {
+        "name": "@nx/node",
+        "versions": [
+          "21.5.0",
+          "20.9.0"
+        ],
+        "removedAt": "2025-08-27T02:44:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      },
+      {
+        "name": "@nx/workspace",
+        "versions": [
+          "21.5.0",
+          "20.9.0"
+        ],
+        "removedAt": "2025-08-27T02:44:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      },
+      {
+        "name": "@nx/eslint",
+        "versions": [
+          "21.5.0"
+        ],
+        "removedAt": "2025-08-27T02:44:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      },
+      {
+        "name": "@nx/key",
+        "versions": [
+          "3.2.0"
+        ],
+        "removedAt": "2025-08-27T10:20:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      },
+      {
+        "name": "@nx/enterprise-cloud",
+        "versions": [
+          "3.2.0"
+        ],
+        "removedAt": "2025-08-27T10:20:00Z",
+        "removedBy": "npm",
+        "removalSource": "https://github.com/nrwl/nx/security/advisories/ghsa-cxm3-wv7p-598c"
+      }
+    ],
+    "advisories": [
+      "GHSA-cxm3-wv7p-598c"
+    ]
+  },
+  {
+    "id": "chalk-debug-2025",
+    "name": "chalk, debug and 17 more packages (September 2025)",
+    "packages": [
+      {
+        "name": "chalk",
+        "versions": [
+          "5.6.1"
+        ]
+      },
+      {
+        "name": "chalk-template",
+        "versions": [
+          "1.1.1"
+        ]
+      },
+      {
+        "name": "ansi-styles",
+        "versions": [
+          "6.2.2"
+        ]
+      },
+      {
+        "name": "supports-color",
+        "versions": [
+          "10.2.1"
+        ]
+      },
+      {
+        "name": "color-convert",
+        "versions": [
+          "3.1.1"
+        ]
+      },
+      {
+        "name": "color-string",
+        "versions": [
+          "2.1.1"
+        ]
+      },
+      {
+        "name": "color-name",
+        "versions": [
+          "2.0.1"
+        ]
+      },
+      {
+        "name": "color",
+        "versions": [
+          "5.0.1"
+        ]
+      },
+      {
+        "name": "ansi-regex",
+        "versions": [
+          "6.2.1"
+        ]
+      },
+      {
+        "name": "strip-ansi",
+        "versions": [
+          "7.1.1"
+        ]
+      },
+      {
+        "name": "slice-ansi",
+        "versions": [
+          "7.1.1"
+        ]
+      },
+      {
+        "name": "wrap-ansi",
+        "versions": [
+          "9.0.1"
+        ]
+      },
+      {
+        "name": "has-ansi",
+        "versions": [
+          "6.0.1"
+        ]
+      },
+      {
+        "name": "simple-swizzle",
+        "versions": [
+          "0.2.3"
+        ]
+      },
+      {
+        "name": "is-arrayish",
+        "versions": [
+          "0.3.3"
+        ]
+      },
+      {
+        "name": "backslash",
+        "versions": [
+          "0.2.1"
+        ]
+      },
+      {
+        "name": "error-ex",
+        "versions": [
+          "1.3.3"
+        ]
+      },
+      {
+        "name": "debug",
+        "versions": [
+          "4.4.2"
+        ]
+      },
+      {
+        "name": "supports-hyperlinks",
+        "versions": [
+          "4.1.1"
+        ]
+      }
+    ],
+    "removedAt": "2025-09-08T19:59:00Z",
+    "removedBy": "npm",
+    "removalSource": "https://snyk.io/blog/npm-supply-chain-attack-via-open-source-maintainer-compromise",
+    "advisories": [
+      "GHSA-4x49-vf9v-38px"
+    ]
+  }
+]

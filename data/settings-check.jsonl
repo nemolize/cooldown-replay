@@ -1,0 +1,9 @@
+{"tool":"npm","setting":"min-release-age=443","unit":"days","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.0","exit":0,"matches":true,"stderr":""}
+{"tool":"pnpm","setting":"minimum-release-age=637920 (.npmrc)","unit":"minutes","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.2","exit":0,"matches":false,"stderr":""}
+{"tool":"pnpm","setting":"minimumReleaseAge: 637920 (pnpm-workspace.yaml)","unit":"minutes","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.0","exit":0,"matches":true,"stderr":""}
+{"tool":"npm","setting":"--min-release-age=443 (flag)","unit":"days","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.0","exit":0,"matches":true,"stderr":""}
+{"tool":"pnpm","setting":"--minimum-release-age=637920 (flag)","unit":"minutes","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":null,"exit":2,"matches":false,"stderr":"error: unexpected argument '--minimum-release-age' found |  | Usage: pnpm install --lockfile-only --ignore-scripts"}
+{"tool":"bun","setting":"[install] minimumReleaseAge = 38275200 (bunfig.toml)","unit":"seconds","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.0","exit":0,"matches":true,"stderr":""}
+{"tool":"bun","setting":"--minimum-release-age=38275200","unit":"seconds","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.0","exit":0,"matches":true,"stderr":""}
+{"tool":"yarn","setting":"npmMinimalAgeGate: 637920 (.yarnrc.yml, bare number)","unit":"minutes","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.0","exit":0,"matches":true,"stderr":""}
+{"tool":"yarn","setting":"npmMinimalAgeGate: \"443d\" (.yarnrc.yml, duration string)","unit":"duration string","cooldownDays":443,"expected":"5.6.0","latest":"5.6.2","resolved":"5.6.0","exit":0,"matches":true,"stderr":""}

@@ -1,0 +1,15 @@
+{
+  "repo": "nemolize/2048",
+  "path": "pnpm-lock.yaml",
+  "until": "2026-06-04T23:59:59Z",
+  "commits": 102,
+  "adoptions": 1869,
+  "reappearedSkipped": 1,
+  "unparsedInLastSnapshot": 0,
+  "unparsedMaxInASnapshot": 0,
+  "lookup": {
+    "ok": 1869,
+    "no-publish-time": 0,
+    "registry-unreadable": 0
+  }
+}

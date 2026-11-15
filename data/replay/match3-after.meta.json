@@ -1,0 +1,15 @@
+{
+  "repo": "nemolize/match3",
+  "path": "pnpm-lock.yaml",
+  "since": "2026-06-05T00:00:00Z",
+  "commits": 38,
+  "adoptions": 395,
+  "reappearedSkipped": 12,
+  "unparsedInLastSnapshot": 0,
+  "unparsedMaxInASnapshot": 0,
+  "lookup": {
+    "ok": 395,
+    "no-publish-time": 0,
+    "registry-unreadable": 0
+  }
+}
